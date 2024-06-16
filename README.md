@@ -34,7 +34,7 @@ https://github.com/Collabse-LCT-2024/main/assets/18398543/c2be51ae-7a38-4761-89e
 
 - Ссылка на прототип
   - [Индексация](http://87.242.93.108/api/events/openapi)
-  - [Поиск](http://87.242.93.108:3001/docs)
+  - [Поиск](https://collabse.tech/docs)
 - Репозитории:
   - [gateway-api](https://github.com/Collabse-LCT-2024/gateway-api) - индексация видео (путь /index)
   - [vector-search-api](https://github.com/Collabse-LCT-2024/vector-search-api) - поиск по базе данных (путь /search/text)
